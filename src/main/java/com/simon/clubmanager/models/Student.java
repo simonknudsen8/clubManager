@@ -7,8 +7,10 @@ import java.util.List;
 public class Student extends User{
 
     private List<Team> team = new ArrayList<>();
+    private Membership membership;
 
     public Student(String mail, String name, String password, LocalDate birthday, Grade grade) {
         super(mail, name, password, birthday, grade);
+        this.membership = membership;
     }
 }
