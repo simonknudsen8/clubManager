@@ -1,4 +1,4 @@
-package repository;
+package com.simon.clubmanager.repository;
 
 
 import org.springframework.jdbc.core.JdbcTemplate;

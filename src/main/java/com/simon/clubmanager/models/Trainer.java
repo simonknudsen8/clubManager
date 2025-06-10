@@ -1,4 +1,4 @@
-package models;
+package com.simon.clubmanager.models;
 
 import java.time.LocalDate;
 import java.util.List;

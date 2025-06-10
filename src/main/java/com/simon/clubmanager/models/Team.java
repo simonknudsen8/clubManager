@@ -1,4 +1,4 @@
-package models;
+package com.simon.clubmanager.models;
 
 import java.util.List;
 
